@@ -74,6 +74,7 @@ Natural language processing, text analytics
 
 https://github.com/datasciencedojo/IntroToTextAnalyticsWithR/tree/master
 
+Aqui escriurem.
 
 ```{r}
 
