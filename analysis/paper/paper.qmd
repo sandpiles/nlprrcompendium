@@ -74,6 +74,8 @@ Natural language processing, text analytics
 
 https://github.com/datasciencedojo/IntroToTextAnalyticsWithR/tree/master
 
+How To Fix Support For Password Authentication Was Removed On GitHub : https://www.youtube.com/watch?v=ePCBuIQJAUc
+
 Aqui escriurem.
 
 ```{r}
